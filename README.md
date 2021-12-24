@@ -1,2 +1,2 @@
-# eric_learn_puthon
+# eric_learn_python
 not defined
